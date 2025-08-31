@@ -6,7 +6,8 @@ Impossible travel & unfamiliar sign-ins are two use cases that are quite popular
 Note: This data was generated using 3rd party VPN providers. In real-world environments, identifying the usage of 3rd party VPNs can be an indicator of suspicious activity. In this specific lab, we are more focused on the location rather than the VPN. In other words, pretend there was no VPN being used and focus on the location.
 
 Context: This company is located in Vancouver, BC, Canada.
-Ressource: mydfir-identity.tgz SHA256: 1c82890603554b2329394c5df17ff666718480eb8a8102132e0541972c9de892 Index: cloud
+Ressource: mydfir-identity.tgz 
+SHA256: 1c82890603554b2329394c5df17ff666718480eb8a8102132e0541972c9de892 Index: cloud
 Date: 2024-02-11 00:00 to 2024-02-12 00:00 Total events: 242
 
 ## Lab Takeaways
