@@ -367,8 +367,7 @@ As an example, search for the 3rd ID to see if we can find what email it is tied
 
 #### Query: index=cloud 188.214.125.138 PH7PR19MB8188D8A00DEAFD4DA081406F91492 | stats count by _time,Operation,UserId,Workload |sort +_time
 
-<img width="827" height="284" alt="29" src="https://github.com/user-attachments/assets/bc99070e-29cb-40a4-a91a-
-  a80ccdbff46b" />
+<img width="827" height="284" alt="29" src="https://github.com/user-attachments/assets/bc99070e-29cb-40a4-a91a-a80ccdbff46b" />
 
 In addition to MailItemsAccessed, we see there is a Create operation and MoveToDeletedItems associated with this ID. We are going to look at the events and scroll down to the last event.
 
