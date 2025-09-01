@@ -229,13 +229,13 @@ As there was a new inbox rule created by this IP, modify the query and add the o
 There is 1 event. Click on the Events tab and expand all the parameters. This inbox rule was created by the IP located in Singapore where it does the following:
 
 -Forward emails to the email address: stoicellis@imcourageous[.]com
--From the address: schan@7pd6vr.onmicrosoft.com
+-From the address: schan@7pd6vr[.]onmicrosoft[.]com
 -Move the email received to the deleted items folder
 -Mark the email as read
 
 <img width="831" height="616" alt="15" src="https://github.com/user-attachments/assets/65cbbdf7-7e9b-455b-a4f3-d1ee0c8804be" />
 
-To summarize, emails sent to the email address schan@7pd6vr.onmicrosoft.com will be automatically marked as read, moved to the deleted items folder, and forwarded to stoicellis@incourageous[.]com. This is a common technique used by attackers who gain access to a mailbox and then set up a forwarding rule to redirect emails to their own address, enabling them to gather sensitive information.
+To summarize, emails sent to the email address schan@7pd6vr[.]onmicrosoft[.]com will be automatically marked as read, moved to the deleted items folder, and forwarded to stoicellis@incourageous[.]com. This is a common technique used by attackers who gain access to a mailbox and then set up a forwarding rule to redirect emails to their own address, enabling them to gather sensitive information.
 
 ### Step 11: Scoping for Attacker Domain  
 
