@@ -35,7 +35,7 @@ Email was deleted "Re: First Invoice of the month!" from drafts under JChan's ac
 
 1) What account was compromised?
 
-Answer: Account compromised: JChan@7pd6vr.onmicrosoft.com
+Answer: Account compromised: JChan@7pd6vr[.]onmicrosoft[.]com
 
 2) According to OSINT, where did this user login from?
 
